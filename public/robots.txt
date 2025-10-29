@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calm-dogs-a930fb40.zappy5.app/sitemap.xml
+Sitemap: https://calm-dogs.zappy5.app/sitemap.xml
